@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "193649917943",
+    "project_id": "lurenet-app",
+    "storage_bucket": "lurenet-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193649917943:android:04ebe791f02a4fa9dd38f2",
+        "android_client_info": {
+          "package_name": "com.lurenet.lurenetApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193649917943-o7ha0rv0g5nfsc8i2fvemo7g7n66ndfu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0DTxgt-W8dwfnHX832-uRQA_iWeCrUYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193649917943-o7ha0rv0g5nfsc8i2fvemo7g7n66ndfu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
